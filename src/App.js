@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>
         helllo world i am nouman
-        gabbar sing munshi
+        gabbar sing munshi is good friend
       </h1>
     </div>
   );
