@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>
         helllo world i am nouman
-        gabbar sing
+        gabbar sing munshi
       </h1>
     </div>
   );
