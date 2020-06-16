@@ -32,7 +32,7 @@ jobs:
       run: npm build
       #install surge
     - name: Install Surge
-      run: npm -g surge
+      run: npm install -g surge
       #deploy surge
     - name : Deploy React App to Surge
       run: surge./build infamous-thing.surge.sh --token ${{secrets.SURGE_TOKEN}}
